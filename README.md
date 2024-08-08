@@ -1,5 +1,5 @@
 # SmileCart
 
-A sample React project used for teaching React concepts via Bigbinary Academy.
+A  React project.
 
-Wireframe: https://amaljith-k.neetowireframe.com/p/MIP/
+https://smile-cart-frontend-nine.vercel.app/products
