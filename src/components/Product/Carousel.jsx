@@ -38,7 +38,7 @@ const Carousel = () => {
     timerRef.current = setInterval(handleNext, 3000);
 
     return () => clearInterval(timerRef.current);
-  }, []);
+  });
 
   return (
     <div className="flex flex-col items-center">
