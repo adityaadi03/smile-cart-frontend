@@ -27,6 +27,10 @@ const Form = () => {
     setFieldValue("state", null);
   };
 
+  const sortedCountries = countries.sort((a, b) =>
+    a.name.localeCompare(b.name)
+  );
+
   return (
     <>
       <Typography style="h3" weight="semibold">
@@ -47,7 +51,7 @@ const Form = () => {
         label={t("country")}
         name="country"
         optionRemapping={{ label: "name", value: "code" }}
-        options={countries}
+        options={sortedCountries}
         placeholder={t("selectCountry")}
         size="large"
         value={country}
