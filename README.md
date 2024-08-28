@@ -10,5 +10,6 @@ SmileCart is a user-friendly e-commerce application developed using the React.js
 - React.js: Frontend framework for building the user interface.
 - React Router: For navigation between different pages.
 - Axios: For fetching product details from the backend.
-  # Live Demo
-Check out the live version of SmileCart here.
+
+# Live Demo
+Check out the live version of SmileCart [here](https://smile-cart-frontend-nine.vercel.app/products)
