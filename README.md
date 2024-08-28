@@ -6,8 +6,9 @@ SmileCart is a user-friendly e-commerce application developed using the React.js
 - Add to Cart: Users can easily add products to their shopping cart, view the cart contents, and adjust quantities.
 - Checkout Page: A streamlined page where users can review their selected items and proceed with the purchase.
 
-# Technologies Used
+# Major Technologies Used
 - React.js: Frontend framework for building the user interface.
 - React Router: For navigation between different pages.
 - Axios: For fetching product details from the backend.
-- CSS Modules: For component-level styling.
+  # Live Demo
+Check out the live version of SmileCart here.
