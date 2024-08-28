@@ -13,3 +13,4 @@ SmileCart is a user-friendly e-commerce application developed using the React.js
 
 # Live Demo
 Check out the live version of SmileCart [here](https://smile-cart-frontend-nine.vercel.app/products)
+
